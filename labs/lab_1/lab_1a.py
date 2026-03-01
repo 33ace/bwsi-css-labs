@@ -11,6 +11,6 @@ def main():
     name = "Ben Chang" 
 
     print(f"{name}, Welcome to the CSS course!")
-
+print("Hey everyone. My name's Ben and I'm a junior from Massachusetts. My favorite school subject is physics. For fun, I like to read, watch TV, or go out to try random food with my friends. My favorite ice cream flavor is pistachio.")
 if __name__ == "__main__":
     main()
