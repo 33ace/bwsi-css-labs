@@ -5,5 +5,5 @@ def test_simple_list():
     assert max_subarray_sum(my_list) == 6
 
 def test_with_negatives():
-    assert max_subarray_sum([-5, -2, -10]) == 6
+    assert max_subarray_sum([-5, -2, -10]) == -2
 
